@@ -1,6 +1,6 @@
- - hi, im just here yk -
-i like to code & program things for fun, generally as a hobby
-i code in python, js, lua(u), c++, mostly c++ tho
-thats pretty much it i think
-:thumbsup:
-yeah idk
+ -# hi, im just here yk #-
+- i like to code & program things for fun, generally as a hobby
+- i code in python, js, lua(u), c++, mostly c++ tho
+- thats pretty much it i think
+- :thumbsup:
+- yeah idk
